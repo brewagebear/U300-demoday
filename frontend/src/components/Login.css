@@ -1,0 +1,131 @@
+
+.member_title h1 {
+    font-size: 28px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.member_title h1 span {
+    display: block;
+    font-size: 14px;
+    font-weight: 300;
+    color: #777;
+    margin-top: 8px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.p_pop_loginItem p {
+    text-align: left;
+    font-size: 15px;
+}
+
+.p_pop_loginItem p {
+    text-align: left;
+    color: #212121;
+    font-size: 17px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+.pop_btn {
+    margin-top: 20px;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+    background-color: #333333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.soram_loginInput input {
+    box-sizing: border-box;
+    border-collapse: collapse;
+    height: 50px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid #e3e5e8;
+    padding-left: 15px;
+    background-color: #fff;
+}
+body, input, textarea, select {
+    padding: 0;
+    -webkit-text-size-adjust: none;
+    font-family: 'Noto Sans KR', sans-serif!important;
+}
+.pop_btn {
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+}
+input {
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: textfield;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-size: 13.3333px;
+    line-height: normal;
+    font-family: Arial;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(195, 195, 195));
+    border-image: initial;
+}
+.checkbox-container input[type="checkbox"] {
+    content: ' ';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 21px;
+    margin: -2px 8px 0 0;
+    text-align: center;
+    vertical-align: middle;
+    background: #ffffff;
+    border: 3px solid #e6e3df;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+html, body, div, header, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, big, cite, code, del, dfn, em, font, img, ins, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, figure {
+    font-family: 'Noto Sans KR', sans-serif!important;
+}
+div {
+    display: block;
+}
